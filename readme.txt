@@ -1,2 +1,2 @@
 friend1
-friend2
+friend3
